@@ -1,0 +1,21 @@
+Chem 13 - Organic Chemistry
+Activity 3 - Name It, Draw It
+AI DISCLOSURE
+Name: Bernice Gwen P. Rebanal          Yr & Block: BSCHE 2B
+
+1. Naming and checking tool
+The Alkane was used as the required checker for all 20 cards. I rebuilt each Part A structure in it and recorded the returned name, and I built every Part B structure in it from the given name. Where The Alkane disagreed with the IUPAC rules (A09), I kept the correct name and stated the rule that decides it. The Part A structures were supplied by the instructor in the image pack; the Part B drawings and screenshots were made by me in The Alkane.
+
+   The Alkane. (n.d.). The Alkane: IUPAC name generator [Web
+   application]. Retrieved November 7, 2026, from https://thealkane.com/
+
+2. Reference sources
+- CHEM 13 Asynchronous Activity No. 3, Appendix B (IUPAC Naming Quick Reference) and Appendix C (The Alkane Quick-Start Tutorial), Bicol University, College of Engineering, Department of Chemical Engineering.
+- CHEM 13 lecture notes and course materials on alkane nomenclature.]
+- Favre, H. A., & Powell, W. H.(2014). Nomenclature of Organic  Chemistry: IUPAC Recommendations and Preferred Names 2013. Royal Society of Chemistry.]
+
+3. AI tool used
+   Claude (Anthropic): drafted the contents of the Part A and Part B cards (naming trails, decoded names, formula checks and back-check wording) and described how to build each Part B structure; reviewed my completed cards and identified errors (for example, the A04 level label, a copied returned name, a missing parenthesis in B08, and an incomplete formula check in B09); and checked typographical and layout consistency.
+
+4. My verification and responsibility
+I reviewed the AI-generated content against the IUPAC rules in Appendix B and checked each name and structure against The Alkane. No AI tool drew the structures shown on the cards or took the screenshots. I am responsible for the correctness of every name, structure and explanation in the submitted portfolio.
